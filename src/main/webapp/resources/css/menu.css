@@ -1,0 +1,84 @@
+
+
+#side{
+	float : left;
+	width : 20%;
+}
+
+#blank{
+	float : left;
+	width : 2%;
+}
+
+#menu{
+	float : left;
+	width : 51%;
+	
+}
+
+#ad{
+	float : left;
+	width : 26%;
+	text-align: center;
+}
+
+#div2{
+	float :left;
+	width : 49%;
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+#burger{
+	text-align: center;
+}
+
+
+#tables{
+	width:72%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #F6F6F6;
+}
+
+h3{
+	color: white !important;
+}
+
+.text{
+	text-align: left;
+	font-size: 12px;
+}
+
+.btns{
+	text-align: right;
+}
+
+hr{
+	color: #EEAE00;
+}
+
+.aaa{
+	text-decoration: none;
+	color: #a25716;
+}
+
+.aaa:VISITED {
+	color: #a25716;
+}
+
+.aaa:HOVER{
+	color:#E61B23;
+}
+
+p{
+	color: #a25716 !important;
+}
+
+#non{
+	clear: both;
+}
+
+#namess{
+	font-weight: bold;
+}

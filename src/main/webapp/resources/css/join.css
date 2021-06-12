@@ -1,0 +1,86 @@
+@CHARSET "UTF-8";
+
+/*
+/* Created by Filipe Pina
+ * Specific styles of signin, register, component
+ */
+/*
+ * General styles
+ */
+
+#join_wrap{
+	width:500px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #c4c6ca;
+	border-radius: 10px;
+}
+#join_menu{
+	width:500px;
+	align:center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	
+}
+th{
+	text-align: left;
+	font-size: 15px;
+	color:#FDC223;
+}
+.btn1{
+	  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+      touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  background-color:white;
+  border: 1px solid #EAEAEA;
+  border-radius: 4px;
+}
+.btn1:hover {
+  color: #333;
+  background-color: #FDC223;
+}
+.btn{
+	display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  color:white;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+      touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  background-color:#ed1c24;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+.btn:hover {
+  color: #333;
+  background-color: #FDC223;
+}
+#idcheck{
+	font-size: 12px;
+}
+h2{
+	color: #BDBDBD;
+}

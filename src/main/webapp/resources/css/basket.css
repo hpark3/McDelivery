@@ -1,0 +1,101 @@
+
+@CHARSET "UTF-8";
+
+
+
+#m_cnt2{
+	font-size: 56px;
+    font-size: 3.5rem;
+    line-height: 40px;
+    text-align: center;
+    color: #e71b23;
+    border : 1px solid white; 
+    width:60px; 
+    height:80px;
+    
+}
+
+#su{
+	font-size: 20px;
+    font-size: .875rem;
+    display: block;
+    color: #8e8e8e;
+}
+
+#m{
+	float : left;
+	width : 98%;
+}
+
+
+#first{
+	vertical-align: center;
+	padding-bottom:3%; 
+	height : 15%;
+}
+
+.t1_name{
+	font-size: 32px;
+}
+
+.t1{
+	
+	padding-left : 10%;
+	padding-right: 10%;
+}
+
+
+
+.t2{
+	width : 99%;
+	border-top : 1px solid black;
+	border-bottom : 1px solid black;
+	float:left;
+	vertical-align: center;
+	line-height: 50px;
+	background-color: #F6F6F6;
+}
+
+.count{
+	padding-top : 20px;
+	float : left;
+	text-align : right;
+	width : 20%;
+}
+
+.menuimg{
+	float : left;
+	text-align : left;
+	width : 40%;
+}
+
+.menuname{
+	padding-top : 10px;
+	float : left;
+	text-align : left;
+	width : 12%;
+}
+
+.menuprice{
+	padding-top : 10px;
+	float : left;
+	text-align : right;
+	width : 13%;
+	font-family: "Malgun Gothic", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-size: 1rem;
+}
+
+.KCAL{
+	padding-top : 10px;
+	float : left;
+	text-align : center;
+	width : 14%;
+}
+
+.back{
+	float : left;
+}
+
+.add{
+	float : right;

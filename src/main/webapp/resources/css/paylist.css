@@ -1,0 +1,139 @@
+@CHARSET "UTF-8";
+
+.wrapper{
+	padding-left : 5%;
+	padding-right : 5%;
+}
+
+.my_info{
+	float : left;
+	width : 74%;
+	border : 3px solid #F6F6F6;
+}
+
+.paytable{
+	text-align : center;
+	float : right;
+	width : 25%;
+	border : 2px solid gold;
+}
+
+
+
+
+
+.m_cnt{
+	padding-left : 20px;
+	float : left;
+	font-size: 24px;
+    font-size: 1.5rem;
+    font-family: "Din Black",sans-serif;
+    width: 5%;
+    line-height: .9;
+}
+
+.m_img{
+	float : left;
+	 width: 39%;
+	 text-align: center;
+}
+
+.m_name{
+	padding-top:40px;
+	float : left;
+	width: 43%;
+	font-family: "Flama Condensed Medium",sans-serif;
+    font-size: 18px;
+    font-size: 1.125rem;
+}
+
+.m_price{
+	padding-top:70px;
+	float : left;
+	width: 10%;
+	font-family: "Flama Condensed Medium",sans-serif;
+    text-align: right;
+    white-space: nowrap;
+    font-size: 26px;
+    font-size: 1.625rem;
+    color: #44900c;
+    padding-right: 5px;
+	
+}
+
+
+#head{
+	width : 99%;
+}
+
+
+#goods{
+	
+	padding-top : 30px;
+	float : left;
+	width : 98%;
+}
+
+
+
+
+.t-left{
+	color: #999;
+    font-weight: 400;
+}
+
+.t-right{
+	text-align: right;
+	font-weight: bold;
+}
+
+tr{
+	padding: 5px;
+}
+
+
+
+.p_cnt{
+	
+	float : left;
+	text-align : right;
+	width : 5%;
+}
+
+.p_img{
+	float: left;
+	width: 15%;
+	text-align: left;
+}
+
+.p_name{
+	float: left;
+	width: 24%;
+	text-align: right;
+}
+
+.p_price{
+	float: left;
+	width: 15%;
+}
+
+.p_regdate{
+	float: left;
+	width: 15%;
+}
+
+.p_payment{
+	float: left;
+	width: 15%;
+}
+
+
+.p_address{
+	float: left;
+	width:98%;
+	text-align: right;
+	border-bottom : 1px solid gray;
+	
+}
+
+
