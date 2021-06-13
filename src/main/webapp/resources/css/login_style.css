@@ -52,7 +52,6 @@ form:after {
 .container { 
 	text-align : center;
 	position: relative; 
-/* 	width: 100%; */
 	}
 	
 #close{
@@ -186,4 +185,15 @@ form:after {
     font-weight:lighter;
     margin: 30px 15px 0 0;
     text-decoration: none; /* underline */
+}
+
+
+/* For below 800px screen width */
+@media screen and (min-width: 642px) and 
+(max-width: 800px){
+	
+}
+
+@media screen and (max-width: 640px) {
+	
 }

@@ -25,7 +25,7 @@
 <body>
   <div id="pwd_wrap">
   <c:if test="${empty passwd}" >
-  	<img src="/my/resources/images/login/findpw.png" onclick="location='<c:url value="/"/>'">
+  	<img src="/mcdelivery/resources/images/login/findpw.png" onclick="location='<c:url value="/"/>'">
     	<h2>비밀번호를 잊어버렸나요?</h2>
     
     <section id="content"> 

@@ -7,8 +7,8 @@
 <title>회원가입</title>
 <link rel="stylesheet" type="text/css" href="<c:url value="/resources/css/join.css" />">
 <!-- 제이쿼리 라이브러리 링크 -->
-<script src="/my/resources/js/jquery-3.js"></script>
-<script src="/my/resources/js/jquery-3.4.1.js"></script>
+<script src="/mcdelivery/resources/js/jquery-3.js"></script>
+<script src="/mcdelivery/resources/js/jquery-3.4.1.js"></script>
 <link rel="stylesheet" type="text/css" href="<c:url value="/resources/css/join.css" />">
 
 <script type="text/javascript">
@@ -101,7 +101,7 @@ $(function(){ // 현재 문서가 브라우저로 로딩될 때 자동 호출되
 <body>
 
 <div id="join_wrap" align="center">
-<img src="/my/resources/images/join/mc_icon.png" style="margin-top: 30px;"/>
+<img src="/mcdelivery/resources/images/join/mc_icon.png" style="margin-top: 30px;"/>
   	
 <h2 class="title">회원가입</h2>
     <form action="<c:url value='/member/signup' />" name="f" method="post">
@@ -111,7 +111,7 @@ $(function(){ // 현재 문서가 브라우저로 로딩될 때 자동 호출되
 			<th colspan="2" align="left">ID</th>
 		</tr>
         <tr>
-        	<td width="30px"><img src="/my/resources/images/join/id.png" style="height:30px;"/></td>	
+        	<td width="30px"><img src="/mcdelivery/resources/images/join/id.png" style="height:30px;"/></td>	
 			<td>
 				<input name="userid" id="userid" size="14" placeholder="User id" required="required">
 				<input type="button" class="btn1" value="중복체크" id="idcheck_btn" >
@@ -124,7 +124,7 @@ $(function(){ // 현재 문서가 브라우저로 로딩될 때 자동 호출되
 			<th colspan="2" align="left">PW</th>
 	    </tr>
   	    <tr>
-  	    	<td width="30px"><img src="/my/resources/images/join/pw.PNG" style="height:23px; margin-left: 3px;"/></td>	
+  	    	<td width="30px"><img src="/mcdelivery/resources/images/join/pw.PNG" style="height:23px; margin-left: 3px;"/></td>	
 			<td>
 				<input type="password" id="userpwd" name="userpwd" placeholder="User pw" required="required">
 			</td>
