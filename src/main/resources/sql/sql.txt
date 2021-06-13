@@ -1,0 +1,4 @@
+CREATE TABLE member (
+	userid		VARCHAR2(100) PRIMARY KEY,
+	userpwd		VARCHAR2(100) NOT NULL
+);
